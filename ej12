@@ -1,0 +1,7 @@
+#!/bin/bash
+# Recibe 2 parametros
+
+if [ $# -ne 2 ]
+then
+    echo "CANTIDAD DE PARAMETROS RECIBIDOS INCORRECTA"
+fi
